@@ -1,0 +1,25 @@
+{
+  "name": "justitie-bot",
+  "version": "1.0.0",
+  "description": "Officer Hans, is een MT Justitie bot aleen te gebruiken door korps NewPort!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Justitie",
+    "Minecraft",
+    "UUID"
+  ],
+  "author": "Mr.Boss#2106 | KoffiePlant030",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "app-xbox-live": "^1.2.7",
+    "discord-api-types": "^0.29.0",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.4",
+    "safe-browse-url-lookup": "^0.1.1"
+  }
+}
